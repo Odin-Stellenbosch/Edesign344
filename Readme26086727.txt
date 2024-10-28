@@ -1,0 +1,7 @@
+This repository contains 3 files. 
+
+Software.py is the main program capable of reading CSV files formatted from soundcard data. A calibration file is needed to process the data. Funtionality is signal display, FFT display, RMS power calculation, THD, fundamental frequency.
+
+Test.py is the program used to analyse live audio captured from the microphone. Funtionality is signal display, FFT display, RMS power calculation, THD, fundamental frequency.
+
+plotter.py is the program used to plot all signal traces captured from the oscilloscope.
